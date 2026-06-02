@@ -76,3 +76,5 @@ print(f"Processed {arr.size} elements efficiently!")
 1. Clone repository: git clone [https://github.com/aksharma-15/optimizing-numerical-code.git](https://github.com/aksharma-15/optimizing-numerical-code.git)
 2. Install dependencies (make sure you've installed Python 3): pip install numpy numba line_profiler
 3. Launch notebook: jupyter notebook Optimising_numerical_code.ipynb
+
+Connect with me on LinkedIn - www.linkedin.com/in/abhay-kumar-sharma-a22a94171
